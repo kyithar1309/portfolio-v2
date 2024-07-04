@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+  }
+  .photo {
+    background: url(images/protfolio.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 200px;
+    height: 200px;
+    background-size: 100%;
+    border-radius: 50%;
+    margin: 20px auto;
+    box-shadow: 0px 0px 40px -10px aqua;
+  }
+  body {
+    background-image: url(images/360_F_200686978_xUZgMeJv0Rj8a98jbfeHci8slCU8RdHF.jpg);
+    color: antiquewhite;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  h2 {
+    display: block;
+    color: aqua;
+    border-bottom: 1px dotted;
+  }
+
+  a{
+    text-decoration: none;
+    color: antiquewhite;
+  }
